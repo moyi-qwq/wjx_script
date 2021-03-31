@@ -1,3 +1,4 @@
+<h1 align="center">慕课助手</h1>
 # wjx_script
 因为抢志愿好麻烦，自己想弄个脚本玩玩
 
