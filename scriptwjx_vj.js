@@ -1,11 +1,11 @@
 javascript: void ((function () 
 {
     var name1 = "董一如";
-    var id1 = "20201869";
+    var id1 = "20111119";
     var qq1 = "3358506770";
     var xueyuan1 = "理学院";
     var zhuanye1 = "信息与计算科学";
-    var phonenum1 = "13436626119";
+    var phonenum1 = "134111111";
 
     var hash = {};
     var a = document.evaluate('//input[(@type="radio") and not(@value="0")]//@name', document, null, XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE, null);
