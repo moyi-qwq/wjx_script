@@ -12,3 +12,5 @@ js没用过 现学现卖
 wjx有两种标签的网页 一个是vm一个是vj，我先把vj的写了做好适配
 
 脚本写好了可以在console里面运行但是进收藏会报错 求助中
+
+vj的测试网页：https://www.wjx.cn/vj/wFEXmUQ.aspx
